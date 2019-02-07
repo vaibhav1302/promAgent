@@ -1,0 +1,5 @@
+io/promagent/collectors/JmxCollector.class
+io/promagent/hooks/ServletHook.class
+io/promagent/hooks/HttpContext$Key.class
+io/promagent/hooks/JdbcHook.class
+io/promagent/hooks/HttpContext.class

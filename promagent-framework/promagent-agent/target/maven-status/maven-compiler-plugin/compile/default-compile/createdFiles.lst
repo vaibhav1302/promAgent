@@ -1,0 +1,4 @@
+io/promagent/agent/ClassLoaderCache.class
+io/promagent/agent/PerDeploymentClassLoader.class
+io/promagent/agent/JarFiles.class
+io/promagent/agent/Promagent.class
